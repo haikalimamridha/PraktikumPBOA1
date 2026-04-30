@@ -2,7 +2,7 @@ public class DosenTetap extends Dosen{
     private int BUP = 65;
     public String NIDN;
     public String Jabatan = "Dosen Tetap";
-    private Double Tunjangan = 0.02; 
+    // private Double Tunjangan = 0.02; 
 
     public String getNIDN(){
         return NIDN;

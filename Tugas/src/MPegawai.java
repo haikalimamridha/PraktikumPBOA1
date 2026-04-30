@@ -34,7 +34,7 @@ public class MPegawai{
 
         // T.printInfo();
         // dt.printInfo();
-        // d.printInfo();
+        d.printInfo();
     }
 
 
